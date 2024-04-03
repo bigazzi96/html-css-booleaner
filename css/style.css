@@ -16,3 +16,7 @@ h3{
 .fonte{
     color: grey;
 }
+thead{
+    background-color: rgb(20, 117, 197);
+    color: white;
+}
